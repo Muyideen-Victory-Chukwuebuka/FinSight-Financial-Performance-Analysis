@@ -36,3 +36,15 @@ These findings highlight the need for stronger cost management and improved oper
 
 ## Executive Dashboard Preview
 ![FinSight Executive Dashboard](./Executive%20Page.png)
+
+## Profit and Loss Statement
+
+![FinSight P&L Statement](./P%26L%20Statement.png)
+
+## Branch Analysis
+
+![FinSight Branch Analysis](./Branch%20Analysis.png)
+
+## Financial Growth Analysis
+
+![FinSight Growth Analysis](./Growth%20Analysis.png)
