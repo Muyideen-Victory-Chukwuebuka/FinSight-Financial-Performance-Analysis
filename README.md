@@ -33,3 +33,6 @@ The Power BI report contains four interactive pages:
 - Profit before tax declined from approximately **-₦691.10 million** in 2024 to **-₦1.38 billion** in 2025.
 
 These findings highlight the need for stronger cost management and improved operational efficiency.
+
+## Executive Dashboard Preview
+![FinSight Executive Dashboard](./Executive%20Page.png)
